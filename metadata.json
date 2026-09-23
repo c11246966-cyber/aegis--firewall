@@ -1,0 +1,6 @@
+{
+  "name": "Aegis-Linux IDS/IPS - Dark Tactical SOC Dashboard",
+  "description": "Tactical Linux Intrusion Detection & Prevention System (IDS/IPS) dashboard with real-time threat monitoring, safe attack simulation vectors, incident triage, automated risk scoring, and rule management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
